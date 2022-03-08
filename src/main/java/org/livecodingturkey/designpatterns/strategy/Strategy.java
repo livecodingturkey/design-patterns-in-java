@@ -4,7 +4,7 @@ public interface Strategy {
     int Operation(int num);
 
     public interface strategy {
-        public int Operation(int num);
+        public int Operation(int num );
     }
 
 }

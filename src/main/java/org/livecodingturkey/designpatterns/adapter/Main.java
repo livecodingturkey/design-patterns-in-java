@@ -5,7 +5,7 @@ package org.livecodingturkey.designpatterns.adapter;
 
 interface Bird
 {
-    // birds implement Bird interface that allows
+    // birds implement Bird interface that allowss
     // them to fly and make sounds adaptee interface
     public void fly();
     public void makeSound();

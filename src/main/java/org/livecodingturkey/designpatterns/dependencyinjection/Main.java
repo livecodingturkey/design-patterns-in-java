@@ -1,5 +1,5 @@
 package org.livecodingturkey.designpatterns.dependencyinjection;
-//There are basically 3 types of ADI. These; 
+//There are basically 3 types of DI. These; 
 //Constructor Injection, Setter Injection, Method Injection) 
 //All methods rely on externally injecting their dependent classes
 

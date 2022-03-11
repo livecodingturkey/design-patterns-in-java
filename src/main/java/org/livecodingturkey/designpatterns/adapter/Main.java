@@ -45,6 +45,7 @@ class BirdAdapter implements ToyDuck
     // You need to implement the interface your
     // client expects to use.
     Bird bird;
+    //Dependency Injection
     public BirdAdapter(Bird bird)
     {
         // we need reference to the object we

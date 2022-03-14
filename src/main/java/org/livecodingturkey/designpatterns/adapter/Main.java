@@ -1,7 +1,6 @@
 package org.livecodingturkey.designpatterns.adapter;
 
 
-// Java implementation of Adapter pattern
 
 interface Bird
 {
